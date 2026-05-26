@@ -1,7 +1,7 @@
 # Veluru Naveenkumar
 **Java Full Stack Developer | Microservices Architect | System Design Enthusiast**
 
-🔗 [Portfolio](https://naveenadithya.dev) | 📧 contact@naveenadithya.dev | 📍 Bengaluru, India | 💼 [LinkedIn](https://linkedin.com/in/naveenadithya)
+🔗 [Portfolio](https://naveenadithya.dev) | 📧 velurunaveenkumar666@gmail.com | 📍 Bengaluru, India | 💼 [LinkedIn](https://linkedin.com/in/naveencts2021)
 
 ---
 
@@ -144,8 +144,8 @@ I'm passionate about **system design**, **microservices architecture**, and **so
 - 🔍 Mentoring and technical knowledge sharing
 
 **Reach out:**
-- 📧 Email: contact@naveenadithya.dev
-- 💼 LinkedIn: [linkedin.com/in/naveenadithya](https://linkedin.com/in/naveenadithya)
+- 📧 Email: velurunaveenkumar666@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/naveenadithya](https://linkedin.com/in/naveencts2021)
 - 🐦 Twitter: [@naveenadithya](https://twitter.com/naveenadithya)
 - 💻 GitHub: [github.com/naveenadithya](https://github.com/naveenadithya)
 
